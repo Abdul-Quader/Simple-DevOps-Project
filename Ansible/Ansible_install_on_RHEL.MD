@@ -1,3 +1,4 @@
+My version
 #### On RHEL 8.x server
 
 1. Install Python latest version  (on Control node and Managed host)
